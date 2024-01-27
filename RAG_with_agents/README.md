@@ -1,26 +1,4 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .banner-container {
-            max-width: 100%;
-            text-align: center;
-            overflow: hidden;
-        }
-
-        .banner-image {
-            width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-
-<body>
-
-    <div class="banner-container">
-        <img src="./img/banner.png" alt="Banner Image" class="banner-image">
-    </div>
+<p><img align="center" src="./img/banner.png" alt="rag_banner"/></p>
 
 # License 🔓
 Please read this project license: https://github.com/pyautoml/machine_learning/blob/main/RAG_with_agents/License.md
