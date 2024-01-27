@@ -10,6 +10,23 @@ This project shows ste-by-step how to build and use RAG using the following tech
 - commercial, paid models like GPT-4 from OpenAI.
 - agetns, semi-independent tools that are able to decide which function should be run next.
 
+### To run this code you need to install a few external libraries by entering into the CMD / Terminal:
+```bash
+pip install -r ./requirements.txt
+```
+
+Libraries stated in the 'requirements.txt':
+```
+black
+openai
+pyodbc
+sqlite3
+sqlalchemy
+transformers
+qdrant-client
+python==3.11.0
+```
+
 # Step by step 🪄
 This project aims to:
 - download and prepare data,
