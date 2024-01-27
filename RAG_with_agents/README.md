@@ -13,7 +13,7 @@ This project shows ste-by-step how to build and use RAG using the following tech
 # Step by step
 This project aims to:
 - download and prepare data,
-- load data to a relational database (MsSQL),
+- load data to a relational database (MS SQL),
 - prepare embeddings based on the data stored in the relational database and store them in Qdrant,
 - create a small toolset to wrangle and manage data, including: selects, inserts, updates, and deleteion from both vector and relational databases,
 - connecting agents and specify their goals,
