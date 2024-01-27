@@ -1,3 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .banner-container {
+            max-width: 100%;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .banner-image {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="banner-container">
+        <img src="./img/banner.png" alt="Banner Image" class="banner-image">
+    </div>
+
 # License 🔓
 Please read this project license: https://github.com/pyautoml/machine_learning/blob/main/RAG_with_agents/License.md
 
@@ -37,3 +61,8 @@ This project aims to:
 - create and maintain metrics and other data on the performance of tested models,
 - prepare a simple GUI i Streamlit to mimic a chat window allowing users to use RAG in real-time,
 - add seaborn / matplotlib visualisations.
+
+
+</body>
+
+</html>
