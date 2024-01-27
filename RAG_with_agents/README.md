@@ -1,7 +1,7 @@
-# License
+# License 🔓
 Please read this project license: https://github.com/pyautoml/machine_learning/blob/main/RAG_with_agents/License.md
 
-# Project
+# Project 📂
 This project shows ste-by-step how to build and use RAG using the following technologies:
 - Qdrant vectorstore (open-souece vector database),
 - MsSQL (local, community version),
@@ -10,7 +10,7 @@ This project shows ste-by-step how to build and use RAG using the following tech
 - commercial, paid models like GPT-4 from OpenAI.
 - agetns, semi-independent tools that are able to decide which function should be run next.
 
-# Step by step
+# Step by step 🪄
 This project aims to:
 - download and prepare data,
 - load data to a relational database (MS SQL),
