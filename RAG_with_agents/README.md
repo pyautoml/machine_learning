@@ -1,4 +1,6 @@
-<p><img align="center" src="./img/banner.png" alt="rag_banner"/></p>
+<div style="max-width: 100%; text-align: center; overflow: hidden;">
+  <img src="./img/project_banner.png"  align="center" alt="rag_banner" style="width: 100%; height: auto;">
+</div>
 
 # License 🔓
 Please read this project license: https://github.com/pyautoml/machine_learning/blob/main/RAG_with_agents/License.md
