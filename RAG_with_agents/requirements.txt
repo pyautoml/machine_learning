@@ -1,0 +1,7 @@
+black
+openai
+pyodbc
+sqlite3
+sqlalchemy
+transformers
+qdrant-client
