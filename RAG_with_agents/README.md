@@ -4,7 +4,7 @@ Please read this project license: https://github.com/pyautoml/machine_learning/b
 # Project 📂
 This project shows ste-by-step how to build and use RAG using the following technologies:
 - Qdrant vectorstore (open-souece vector database),
-- MsSQL (local, community version),
+- MS SQL (local, community version),
 - Transfrormers from Huggingface,
 - open-source models like Mistral, Vicuna, Falcon, and many more,
 - commercial, paid models like GPT-4 from OpenAI.
