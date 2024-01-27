@@ -42,7 +42,10 @@ This project aims to:
 - prepare a simple GUI i Streamlit to mimic a chat window allowing users to use RAG in real-time,
 - add seaborn / matplotlib visualisations.
 
+# Future plans
+Once the first phase is complete, further parts of this project are planned:
+- serving the API via LangServer or Flask to enable online chatbot conversations,
+- preparing the frontend (React),
+- refinement of the model,
+- optimising the performance of the application.
 
-</body>
-
-</html>
